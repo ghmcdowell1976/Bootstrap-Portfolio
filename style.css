@@ -1,0 +1,15 @@
+body{color: #777777;
+font-family: 'Georgia', Times, Times New Roman, 'serif';}
+
+.header{background-color:#4aaaa5;
+border-color: #cccccc;
+color: white;
+border: solid 1px;
+padding: 20px;}
+
+.container {position: absolute;
+  margin: 20px 0;
+  border: solid 1px;
+  background-color: #ffffff;
+ width: 650px;
+  padding: 10px;}
